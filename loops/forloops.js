@@ -8,3 +8,6 @@ while(i < arr1.length){
     }
     i++;
 }
+
+//GLOBAL khai báo ngoài function
+//BLOCK chỉ hiểu trong 1 khối
